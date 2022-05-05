@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/heart_24.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/home_24.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/ic_all_news.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/ic_breaking_news.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/ic_favorite.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/search_24.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/share_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/drawable/upload_24.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/activity_news.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/fragment_article.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/fragment_breaking_news.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/fragment_news.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/fragment_saved_news.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/fragment_search_news.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/item_article.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/layout/item_article_preview.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/NewsFeedApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12760416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
